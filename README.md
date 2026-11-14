@@ -42,9 +42,3 @@ If the microphone is blocked, touch your thumb to your middle finger and flick a
 - `src/main.js`: app state and frame loop
 
 `npm test` runs the catalog, gesture and snap tests.
-
----
-
-## Source attribution
-
-This project is based on the SnapSplode project by [developerpreetiverma](https://github.com/developerpreetiverma/snapsplode). The original project is credited here; please refer to the source repository for its original history and author information.
